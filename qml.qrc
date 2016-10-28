@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NavigationDrawerDelegate.qml</file>
+        <file>RadioList.qml</file>
+        <file>smallbg.png</file>
+    </qresource>
+    <qresource prefix="/Mplayer">
+        <file>IphoneApplicationTitleBar_Gray.png</file>
+        <file>background_300dpi.png</file>
+        <file>sidebar_bg.png</file>
+        <file>cardeffect.png</file>
+        <file>flat,800x800,075,f.jpg</file>
+        <file>playerplay.png</file>
+        <file>playerstop.png</file>
+    </qresource>
+    <qresource prefix="/srcRadios">
+        <file>Radios/radio-idaatamazight.png</file>
+        <file>Radios/radio-220px-Radiomars.gif</file>
+        <file>Radios/radio-aswat.jpeg</file>
+        <file>Radios/radio-capradio.jpeg</file>
+        <file>Radios/radio-chadafm.jpeg</file>
+        <file>Radios/radio-luxeradio.jpeg</file>
+        <file>Radios/radioplus.jpeg</file>
+        <file>Radios/radio-medi-1-radio.jpg</file>
+        <file>Radios/radio-medina-fm.jpg</file>
+        <file>Radios/radio-2m.png</file>
+        <file>Radios/radio-andalousse.png</file>
+        <file>Radios/radio-anwarock.png</file>
+        <file>Radios/radio-chaineinter.png</file>
+        <file>Radios/radio-habayiib.png</file>
+        <file>Radios/radio-hit-radio-buzz.png</file>
+        <file>Radios/radio-hit-radio-dancefloor.png</file>
+        <file>Radios/radio-hit-radio-mgharba.png</file>
+        <file>Radios/radio-hit-radio-rnb.png</file>
+        <file>Radios/radio-hit-radio.png</file>
+        <file>Radios/radio-itma.png</file>
+        <file>Radios/radio-itran.png</file>
+        <file>Radios/radio-izlan.png</file>
+        <file>Radios/radio-logo-atlantic-16.png</file>
+        <file>Radios/radio-maroc-music.png</file>
+        <file>Radios/radio-marrakech.png</file>
+        <file>Radios/radio-med-radio_1.png</file>
+        <file>Radios/radio-mfm.png</file>
+        <file>Radios/radio-monte-carlo-doualiya.png</file>
+        <file>Radios/radio-ness-radio.png</file>
+        <file>Radios/radio-only-rai.png</file>
+        <file>Radios/radio-orient-fm.png</file>
+        <file>Radios/radio-planet-house.png</file>
+        <file>Radios/radio-rif-melody-radio.png</file>
+        <file>Radios/radio-sawte-ouarzazate.png</file>
+        <file>Radios/radio-soleil.png</file>
+        <file>Radios/radio-soufi.png</file>
+        <file>Radios/radio-starmaroc-fm.png</file>
+        <file>Radios/radio-tarab.png</file>
+        <file>Radios/radio-yabiladi.png</file>
+        <file>Radios/radiochabab1.png</file>
+        <file>Radios/radiomars.png</file>
+        <file>Radios/radiosawa.png</file>
+        <file>Radios/radio-tarab.psd</file>
+    </qresource>
+</RCC>

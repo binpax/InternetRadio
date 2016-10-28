@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Material/Fonts">
+        <file>MaterialFontLoader.qml</file>
+        <file>qmldir</file>
+        <file>roboto/Roboto-Light.ttf</file>
+    </qresource>
+</RCC>

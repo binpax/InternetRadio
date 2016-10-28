@@ -1,0 +1,88 @@
+<RCC>
+    <qresource prefix="/icons/navigation">
+        <file alias="arrow_back.svg">navigation_arrow_back.svg</file>
+        <file alias="chevron_left.svg">navigation_chevron_left.svg</file>
+        <file alias="chevron_right.svg">navigation_chevron_right.svg</file>
+        <file alias="close.svg">navigation_close.svg</file>
+        <file alias="menu.svg">navigation_menu.svg</file>
+        <file alias="more_vert.svg">navigation_more_vert.svg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>av/add_to_queue.svg</file>
+        <file>av/airplay.svg</file>
+        <file>av/album.svg</file>
+        <file>av/art_track.svg</file>
+        <file>av/av_timer.svg</file>
+        <file>av/closed_caption.svg</file>
+        <file>av/equalizer.svg</file>
+        <file>av/explicit.svg</file>
+        <file>av/fast_forward.svg</file>
+        <file>av/fast_rewind.svg</file>
+        <file>av/fiber_dvr.svg</file>
+        <file>av/fiber_manual_record.svg</file>
+        <file>av/fiber_new.svg</file>
+        <file>av/fiber_pin.svg</file>
+        <file>av/fiber_smart_record.svg</file>
+        <file>av/forward_5.svg</file>
+        <file>av/forward_10.svg</file>
+        <file>av/forward_30.svg</file>
+        <file>av/games.svg</file>
+        <file>av/hd.svg</file>
+        <file>av/hearing.svg</file>
+        <file>av/high_quality.svg</file>
+        <file>av/library_add.svg</file>
+        <file>av/library_books.svg</file>
+        <file>av/library_music.svg</file>
+        <file>av/loop.svg</file>
+        <file>av/mic_none.svg</file>
+        <file>av/mic_off.svg</file>
+        <file>av/mic.svg</file>
+        <file>av/movie.svg</file>
+        <file>av/music_video.svg</file>
+        <file>av/new_releases.svg</file>
+        <file>av/not_interested.svg</file>
+        <file>av/pause_circle_filled.svg</file>
+        <file>av/pause_circle_outline.svg</file>
+        <file>av/pause.svg</file>
+        <file>av/play_arrow.svg</file>
+        <file>av/play_circle_filled.svg</file>
+        <file>av/play_circle_outline.svg</file>
+        <file>av/playlist_add_check.svg</file>
+        <file>av/playlist_add.svg</file>
+        <file>av/playlist_play.svg</file>
+        <file>av/queue_music.svg</file>
+        <file>av/queue_play_next.svg</file>
+        <file>av/queue.svg</file>
+        <file>av/radio.svg</file>
+        <file>av/recent_actors.svg</file>
+        <file>av/remove_from_queue.svg</file>
+        <file>av/repeat_one.svg</file>
+        <file>av/repeat.svg</file>
+        <file>av/replay_5.svg</file>
+        <file>av/replay_10.svg</file>
+        <file>av/replay_30.svg</file>
+        <file>av/replay.svg</file>
+        <file>av/shuffle.svg</file>
+        <file>av/skip_next.svg</file>
+        <file>av/skip_previous.svg</file>
+        <file>av/slow_motion_video.svg</file>
+        <file>av/snooze.svg</file>
+        <file>av/sort_by_alpha.svg</file>
+        <file>av/stop.svg</file>
+        <file>av/subscriptions.svg</file>
+        <file>av/subtitles.svg</file>
+        <file>av/surround_sound.svg</file>
+        <file>av/video_library.svg</file>
+        <file>av/videocam_off.svg</file>
+        <file>av/videocam.svg</file>
+        <file>av/volume_down.svg</file>
+        <file>av/volume_mute.svg</file>
+        <file>av/volume_off.svg</file>
+        <file>av/volume_up.svg</file>
+        <file>av/web_asset.svg</file>
+        <file>av/web.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>color_lens.svg</file>
+    </qresource>
+</RCC>
